@@ -1,6 +1,6 @@
 
 # Deployed 
-    Link : https://estate-06rf.onrender.com/
+    Link : https://real-estate-w0zt.onrender.com/
 
 # MERN Estate
 
