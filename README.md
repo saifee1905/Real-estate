@@ -1,3 +1,7 @@
+
+# Deployed 
+    Link : https://estate-06rf.onrender.com/
+
 # MERN Estate
 
 MERN Estate is a web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for managing real estate listings.
