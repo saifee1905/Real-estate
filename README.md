@@ -1,6 +1,7 @@
 
 # Deployed 
-     https://real-estate-w0zt.onrender.com/
+     [Visit my app](https://real-estate-w0zt.onrender.com/)
+
 
 # MERN Estate
 
