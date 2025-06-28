@@ -1,6 +1,6 @@
 
 # Deployed 
-     [Visit my app](https://real-estate-w0zt.onrender.com/)
+     https://real-estate-w0zt.onrender.com
 
 
 # MERN Estate
@@ -19,7 +19,7 @@ MERN Estate is a web application built using the MERN stack (MongoDB, Express.js
 
 - **Frontend**: React.js, Redux, Bootstrap
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Database**: MongoDB, Firebase
 - **Authentication**: JSON Web Tokens (JWT)
 
 ## Getting Started
